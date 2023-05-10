@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick('You have been from the game for hacking. If you think it's a false ban, please contact us.')
